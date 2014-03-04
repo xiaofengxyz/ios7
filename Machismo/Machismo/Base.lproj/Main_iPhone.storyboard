@@ -179,6 +179,18 @@
                     </view>
                     <connections>
                         <outlet property="flipsLabel" destination="2uK-gu-bp6" id="mMd-WB-5N2"/>
+                        <outletCollection property="cardButtons" destination="Q0k-F4-n46" id="AS5-4t-Ge5"/>
+                        <outletCollection property="cardButtons" destination="OND-vQ-PLx" id="OqF-Qx-eWa"/>
+                        <outletCollection property="cardButtons" destination="fqm-1S-xEF" id="xlA-45-dQg"/>
+                        <outletCollection property="cardButtons" destination="3EB-j9-fh3" id="UMz-6H-Og5"/>
+                        <outletCollection property="cardButtons" destination="YDo-Ji-yOr" id="l18-6M-xYL"/>
+                        <outletCollection property="cardButtons" destination="rrA-LT-bua" id="cQK-rE-Kok"/>
+                        <outletCollection property="cardButtons" destination="NeV-JM-9QZ" id="PXD-pT-7Tq"/>
+                        <outletCollection property="cardButtons" destination="M9V-0T-ORE" id="EXh-iX-bSB"/>
+                        <outletCollection property="cardButtons" destination="KWo-rA-c5Y" id="8qn-We-gMA"/>
+                        <outletCollection property="cardButtons" destination="Pam-pm-lf1" id="Khq-D1-tbb"/>
+                        <outletCollection property="cardButtons" destination="x53-Iq-LH6" id="NfY-cp-kAN"/>
+                        <outletCollection property="cardButtons" destination="e38-7z-HB4" id="kE8-3C-KLX"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
